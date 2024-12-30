@@ -1,0 +1,13 @@
+.full-width-div {
+    display: flex;               
+    justify-content: center;     
+    align-items: center;         
+    /*height: 100vh;*/               
+    width: 100%;                 
+    background-color: lightblue; 
+}
+
+.spinner {
+    width: 100px;
+    height: 100px;
+}
